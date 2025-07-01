@@ -1,0 +1,6 @@
+{
+  "name": "it_support_chatbot",
+  "description": "A web application for internal IT support, featuring an admin dashboard for analytics and an employee-facing chatbot for resolving common IT issues.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
