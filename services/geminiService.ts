@@ -9,7 +9,7 @@ const API_KEY = process.env.API_KEY;
 export class GeminiService {
   private ai: GoogleGenAI;
   private chat: Chat | null = null;
-  private modelName = 'gemini-2.5-flash-preview-04-17';
+  private modelName = 'gemini-2.5-flash';
 
   constructor() {
     if (!API_KEY) {
